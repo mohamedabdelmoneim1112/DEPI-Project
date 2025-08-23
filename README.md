@@ -1,12 +1,11 @@
 # AI-Powered Underwater Monitoring System for Aquaculture  
 
-## 📌 Project Overview  
+## Project Overview  
 This project develops an **AI-powered underwater camera system** designed to enhance monitoring and management in aquaculture.  
-By combining **Computer Vision, Machine Learning, and Data Analytics**, the system provides real-time insights into fish and shrimp farming operations.  
-
+5
 ---
 
-## 🎯 Objectives  
+## Objectives  
 - Automate fish/shrimp **counting** and **biomass estimation**.  
 - Monitor **feeding behavior** and optimize feed management.  
 - Detect **abnormal swimming patterns, stress, or diseases** early.  
@@ -15,7 +14,7 @@ By combining **Computer Vision, Machine Learning, and Data Analytics**, the syst
 
 ---
 
-## ⚙️ Features  
+## Features  
 - **Underwater camera integration** with live data streaming.  
 - **AI models** for object detection and behavior analysis.  
 - **Data pipeline** (Python + SQL) to store and process results.  
@@ -24,12 +23,8 @@ By combining **Computer Vision, Machine Learning, and Data Analytics**, the syst
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Programming & Data Processing**: Python, SQL  
 - **AI & Computer Vision**: TensorFlow / PyTorch, OpenCV  
 - **Data Visualization**: Power BI  
 - **Deployment**: Local server or cloud-based (optional)  
-
----
-
-## 📂 Project Structure
